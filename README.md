@@ -15,6 +15,7 @@ yazınız.
 Proje ile ilgili genel bilgiler: 
 
 -> PatikaStore.java sınıfı 
+
 Bu sınıfta öncelikle kullanıcıya Menü gösterilir ve  kullanıcıdan seçim için input alınır. 
 Seçtiği menüye göre ilgili işlemleri yapabileceği method'lara yönlendirilir.
 1 ise laptop menüsü, 2 ise mobil telefon menüsü, 3 ise listeleme menüsü, 0 ise çıkış'a yönlendirilir.
